@@ -118,7 +118,6 @@ npm start
 
 ### **`ᥫ᭡ Propietario`**
 <a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
+href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
+𝐈𝐓𝐒.𝐌𝐈𝐀.𝐎𝐅𝐈𝐂𝐈𝐀𝐋"/></a>
 
-#
