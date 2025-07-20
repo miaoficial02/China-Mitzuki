@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι Sυσυ ✦</h1>
+<h1 align="center">💋𝗖𝗛𝗜𝗡𝗔-𝗠𝗜𝗧𝗭𝗨𝗞𝗜💋</h1>
 
  <img src= "https://h.uguu.se/OZnbLDbX.png">
     </p>
@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/miaoficial02/China-Mitzuki && cd China-Mitzuki
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd China-Mitzuki
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -97,7 +97,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Yuki_Suou-Bot && nano settings.js
+    cd China-Mitzuki && nano settings.js
    ```
 
 </details>
