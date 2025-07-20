@@ -1,38 +1,31 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let img = './src/catalogo.jpg'
-let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
+let staff = `🇨🇳 𝑬𝑸𝑼𝑰𝑷𝑶 𝑫𝑬 𝑪𝑶𝑳𝑨𝑩𝑶𝑹𝑨𝑫𝑶𝑹𝑬𝑺 🇨🇳
 ✰ *Dueño* ${creador}
 ✦ *Bot:* ${botname}
 ⚘ *Versión:* ${vs}
 ❖ *Libreria:* ${libreria} ${baileys}
 
-❍ *Creador:*
+👑 *Creador:*
 
-ᰔᩚ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜
+💋 𝑪𝑯𝑰𝑵𝑰𝑻𝑨 | ᵒᶠᶦᶜᶦᵃˡ
 > 🜸 Rol » *Creador*
-> ✧ GitHub » https://github.com/The-King-Destroy
+> ✧ GitHub » https://github.com/miaoficial02
 
-❒ *Colaboradores:*
+⚠️ *𝙊𝙏𝙍𝘼𝙎 𝙍𝙀𝘿𝙀𝙎:*
 
-ᰔᩚ 𝓔𝓶𝓶𝓪 𝓥𝓲𝓸𝓵𝓮𝓽𝓼 𝓥𝓮𝓻𝓼𝓲ó𝓷 
-> 🜸 Rol » *Developer*
-> ✧ GitHub » https://github.com/Elpapiema
+👑 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖
+> 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 » *Mia*
+> 🌐 𝙻𝙸𝙽𝙺 » https://www.instagram.com/its.mia.oficial
 
-ᰔᩚ Niño Piña
-> 🜸 Rol » *Developer*
-> ✧ GitHub » https://github.com/WillZek
+👑 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖
+> 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 » *𝙼𝚒𝚊*
+> 🌐 𝙻𝙸𝙽𝙺 » t.me/Chinitx_oficixl
 
-✧ ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆
-> 🜸 Rol » *Developer*
-> ✧ GitHub » https://github.com/Diomar-s
+👑 𝙿𝚊𝚐𝚒𝚗𝚊 𝙻𝚞𝚗𝚊-𝙱𝚘𝚝
+>  𝙲𝚁𝙴𝙰𝙳𝙾𝚁 » *𝙼𝚒𝚊*
+> 🌐𝙻𝙸𝙽𝙺 » http://bit.ly/4lzTWva
 
-ᰔᩚ I'm Fz' (Tesis)
-> 🜸 Rol » *Developer*
-> ✧ GitHub » https://github.com/FzTeis
-
-ᰔᩚ Legna
-> 🜸 Rol » *Mini-Dev* 
-> ✧ GitHub » https://github.com/Legna-chan
 `
 await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), m)
 }
