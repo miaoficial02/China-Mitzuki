@@ -62,7 +62,7 @@ global.moneda = '¥enes'
 global.welcom1 = ' Edita Con El Comando setwelcome'
 global.welcom2 = ' Edita Con El Comando setbye'
 global.banner = 'https://files.catbox.moe/b7u1gt.png'
-global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg'
+global.avatar = 'https://files.catbox.moe/q06aba.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
