@@ -1,6 +1,6 @@
 <h1 align="center">💋𝗖𝗛𝗜𝗡𝗔-𝗠𝗜𝗧𝗭𝗨𝗞𝗜💋</h1>
 
- <img src= "https://h.uguu.se/OZnbLDbX.png">
+ <img src= "https://h.uguu.se/OZnbLDbX.jpg">
     </p>
 
 ### **`❕️ Información importante`**
