@@ -3,16 +3,16 @@
  <img src= "https://files.catbox.moe/q06aba.jpg">
     </p>
 
-### **`❕️ Información importante`**
+### **`🔰 Información importante 🔰`**
 
 <details>
- <summary><b> ➮ Info • Bot</b></summary>
+ <summary><b> ⚠️ Info • Bot</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 </details>
 
 <details>
- <summary><b> ➮ Funciones</b></summary>
+ <summary><b> ⚠️ Funciones</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
@@ -35,16 +35,16 @@
 
 ---
 
-### **`✧ Click en la imagen para descargar termux ✧`**
+### **`💋 Click en la imagen para descargar termux 💋`**
 <a
 href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
 
-### **`➮ Instalación por termux`**
+### **`📲 Instalación por termux`**
 
 <details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
+ <summary><b> 📌 Click para ver los Comandos </b></summary>
 
-### **❀ Instalación manual por termux**
+### **👤 Instalación manual por termux 👤**
 > Nota: Copie y pegue los comandos en termux uno por uno.
 ```bash
 termux-setup-storage
@@ -76,7 +76,7 @@ npm start
 
 > Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
 
-### **🜸 Activar en caso de detenerse en termux**
+### **🔰 Activar en caso de detenerse en termux 🔰**
 
 > Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
 
@@ -92,7 +92,7 @@ npm start
     npm start
    ```
 
-### **✰ Volverte owner del Bot**
+### **👑 Volverte owner del Bot 👑**
 
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
@@ -116,7 +116,7 @@ npm start
 ---
 
 
-### **`ᥫ᭡ Propietario`**
+### **`👑 Propietario 👑`**
 <a
 href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
 𝐈𝐓𝐒.𝐌𝐈𝐀.𝐎𝐅𝐈𝐂𝐈𝐀𝐋"/></a>
