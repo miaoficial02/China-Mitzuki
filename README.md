@@ -106,7 +106,7 @@ npm start
 
 
 <details>
-<summary><b> ✰ Contáctos</b></summary>
+<summary><b> 🌐 Contáctos</b></summary>
 
 * Correo: [`Aquí`](itss.mia.oficial@gmail.com)
 
